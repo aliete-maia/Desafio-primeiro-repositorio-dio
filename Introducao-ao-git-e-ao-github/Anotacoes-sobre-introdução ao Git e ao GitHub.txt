@@ -1,8 +1,8 @@
-# **Introdução ao Git e GitHub**
-- **O que é o GIT?**
+# Introdução ao Git e GitHub
+- O que é o GIT?
 	É um sistema de versionamento de código distribuido;
 	Foi criado em 2005, por Linus Torvalds.
-- **Onde baixar o GIT?**
+- Onde baixar o GIT?
 	https://git-scm.com/
 - O que é um sistema distribuído?
 	Um sistema que possui múltiplas cópias de si mesmo em diferentes locais.
