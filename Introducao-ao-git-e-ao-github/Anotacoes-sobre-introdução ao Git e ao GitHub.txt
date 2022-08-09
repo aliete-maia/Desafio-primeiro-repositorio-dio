@@ -1,0 +1,12 @@
+# **Introdução ao Git e GitHub**
+- **O que é o GIT?**
+	É um sistema de versionamento de código distribuido;
+	Foi criado em 2005, por Linus Torvalds.
+- **Onde baixar o GIT?**
+	https://git-scm.com/
+- O que é um sistema distribuído?
+	Um sistema que possui múltiplas cópias de si mesmo em diferentes locais.
+- Git init:
+	Inicializa o GIT dentro de uma pasta.
+- Git clone:
+	Faz um clone do repositório remoto em seu repositório local.
